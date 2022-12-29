@@ -5,6 +5,7 @@ body {
 #container {
     max-width: 960px;
     margin-left: auto;
+    margin-right: auto;
 }
 
 #projects, #skills {
