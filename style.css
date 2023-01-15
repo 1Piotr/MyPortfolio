@@ -17,8 +17,8 @@ body {
 }
 #projects > div {
     display:flex;
-    min-width:155px;
-    height:200px;
+    min-width:200px;
+    height:300px;
     border:3px solid ;
     flex-basis:0;
     text-align: center;
@@ -29,12 +29,12 @@ body {
 }
 a {
     text-decoration: none;
-    color:black
+    color:inherit;
 }
 
 #projects > div:hover {
     border:3px solid darkcyan;
-    
+    color: darkcyan; 
   }
 
 img {
