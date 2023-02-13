@@ -127,7 +127,12 @@ footer {
     }
     #statement {
         padding-top: 2rem;
+        padding-right: 2rem;
+        padding-left: 2rem;
     }
-    
+    header {
+        padding-top: 1rem;
+        padding-bottom: 1rem;
+    }
     
   }
