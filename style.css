@@ -134,5 +134,11 @@ footer {
         padding-top: 1rem;
         padding-bottom: 1rem;
     }
+    header > h2 {
+        margin-bottom: 0;
+    }
+    nav {
+        margin-top: 0;
+    }
     
   }
