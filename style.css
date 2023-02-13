@@ -64,6 +64,8 @@ h2 {
 #statement {
     padding-right: 1rem;
     text-align: justify;
+    font-size: 1.1rem;
+    line-height: 1.5rem;
     
 }
 #skills> * {
