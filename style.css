@@ -2,7 +2,7 @@
     box-sizing: border-box;
 }
 body {
-    font-family:'Arial';
+    font-family:'Calibri';
     font-weight: 200;
     max-width: 960px;
     margin-left: auto;
@@ -67,6 +67,7 @@ h2 {
     text-align: justify;
     font-size: 1.1rem;
     line-height: 1.5rem;
+    font-weight: 500;
     
 }
 #skills> * {
